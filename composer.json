@@ -6,5 +6,6 @@
             "email": "bitfumes@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
