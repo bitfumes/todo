@@ -1,0 +1,10 @@
+{
+    "name": "bitfumes/todo-package",
+    "authors": [
+        {
+            "name": "Bitfumes",
+            "email": "bitfumes@gmail.com"
+        }
+    ],
+    "require": {}
+}
