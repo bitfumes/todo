@@ -11,7 +11,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "bitfumes\\todo\\TodoServiceProvider"
+                "Bitfumes\\Todo\\TodoServiceProvider"
             ]
         }
     },
