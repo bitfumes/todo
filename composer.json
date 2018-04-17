@@ -14,5 +14,10 @@
                 "bitfumes\\todo\\TodoServiceProvider"
             ]
         }
+    },
+    "autoload": {
+        "psr-4": {
+            "Bitfumes\\Todo\\": "src/"
+        }
     }
 }
